@@ -4,7 +4,7 @@ From this pre-print https://doi.org/10.1101/2020.03.24.20042762; Author David Sc
 <table>
     <thead>
         <tr>
-            <th colspan="2">The table header</th>
+            <th colspan="2">Table 1: Patient Cohorts and Length of Stay Estimates</th>
         </tr>
     </thead>
     <tbody>
