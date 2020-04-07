@@ -24,9 +24,13 @@ From this pre-print https://doi.org/10.1101/2020.03.24.20042762; Author David Sc
             <td>LOS (Length of Stay) Estimates in Model
             <table>
                     <tbody>
-                        <tr><th>LOS Floor</th><th>LOS ICU</th><th>LOS Floor</th><th>Total LOS</th></tr>
-                        <tr><td>5</td><td>  </td><td> </td><td>5</td></tr>
-                                   </tbody>
+                      <tr><th>LOS Floor</th><th>LOS ICU</th><th>LOS Floor</th><th>Total LOS</th></tr>
+                      <tr><td>5</td><td>  </td><td> </td><td>5</td></tr>
+                      <tr><td>4</td><td>9</td><td>4</td><td>17</td></tr>
+                      <tr><td>6</td><td>9</td><td> </td><td>15</td></tr>
+                      <tr><td> </td><td>9</td><td>4</td><td>13</td></tr>
+                      <tr><td> </td><td>11</td><td> </td><td>11</td></tr>  
+                    </tbody>
                 </table>
             </td>            
         </tr>
