@@ -41,6 +41,13 @@ From this pre-print https://doi.org/10.1101/2020.03.24.20042762; Author David Sc
     <body>
         <code>
 
+
+    using System;
+
+    namespace ConsoleApp3
+    {
+        class Program
+        {
         private const double LOS_Floor_1 = 5; // Length of stay 5 days
         private const double LOS_ICU_11d = 11; // Length of stay 11 days
         private const double LOS_ICU_9d = 9; // Lenght of stay 9 days
