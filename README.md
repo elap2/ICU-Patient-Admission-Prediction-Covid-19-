@@ -10,7 +10,12 @@ From this pre-print https://doi.org/10.1101/2020.03.24.20042762; Author David Sc
     <tbody>
         <tr>
             <td>COVID Patient Cohorts
-                <table><tbody><tr><td>Index</td><td>Path</td><td>Fraction of Patients %</td></tr></tbody></table>
+                <table>
+                    <tbody>
+                        <tr><th>Index</th><th>Path</th><th>Fraction of Patients %</th></tr>
+                        <tr><td>1</td><td>Floor</td><td>70.4</td></tr>
+                    </tbody>
+                </table>
             </td>
             <td>LOS (Length of Stay) Estimates in Model</td>            
         </tr>
