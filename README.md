@@ -9,8 +9,10 @@ From this pre-print https://doi.org/10.1101/2020.03.24.20042762; Author David Sc
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td>with two columns</td>
+            <td>COVID Patient Cohorts
+                <table><tbody><tr><td>Index</td><td>Path</td><td>Fraction of Patients %</td></tr></tbody></table>
+            </td>
+            <td>LOS (Length of Stay) Estimates in Model</td>            
         </tr>
     </tbody>
 </table>
