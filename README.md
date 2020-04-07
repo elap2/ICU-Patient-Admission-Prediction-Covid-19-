@@ -21,7 +21,7 @@ From this pre-print https://doi.org/10.1101/2020.03.24.20042762; Author David Sc
                     </tbody>
                 </table>
             </td>
-            <td>LOS (Length of Stay) Estimates in Model
+            <td>(Length of Stay)Estimates in Model
             <table>
                     <tbody>
                       <tr><th>LOS Floor</th><th>LOS ICU</th><th>LOS Floor</th><th>Total LOS</th></tr>
