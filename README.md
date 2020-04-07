@@ -4,12 +4,12 @@ From this pre-print https://doi.org/10.1101/2020.03.24.20042762; Author David Sc
 <table>
     <thead>
         <tr>
-            <th colspan="2">Table 1: Patient Cohorts and Length of Stay Estimates</th>
+            <th colspan="3">Table 1: Patient Cohorts and Length of Stay Estimates</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>The table body</td>
+            <td></td>
             <td>with two columns</td>
         </tr>
     </tbody>
