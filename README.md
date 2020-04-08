@@ -5,16 +5,22 @@ This App created in Microsoft Visual Studio 2019 is a Console App (.NET Core) wr
 
 For MacOs you will need to be able to run .NET Core applications. 
 
-# Clone or Download all the files into one folder. 
-
-
-From this pre-print https://doi.org/10.1101/2020.03.24.20042762 
+## Background
+On March 26 2020 this pre-print was able online: https://doi.org/10.1101/2020.03.24.20042762 
 Corresponding Author: David Scheinker from Lucile Packard Children’s Hospital, Stanford, CA 
 First Author: Teng Zhang Standford Department of Management Science and Engineering, Stanford University School of Engineering,
 Stanford, CA
+
+""
  
 # To view the on-line calculator please click on this link:
 https://surf.stanford.edu/covid-19-tools/covid-19-hospital-projections/ 
+
+## Run this App doing the following steps: 
+### 1. Clone or Download all the files into one folder. 
+### 2. Run the .exe
+
+
 
 # What is the advantage of this App?
 
