@@ -1,12 +1,23 @@
-# ICU-Patient-Admission-Prediction-Covid-19-
-From this pre-print https://doi.org/10.1101/2020.03.24.20042762; Author David Scheinker Standford
+# ICU-Patient-Admission-Prediction-Covid-19+
+To do an estimation of how many patients are being admitted to the intensive care unit or acute care patients is essential for hospital planning.  
 
-This App is a Consola App (.NET Core) in C sharp created in Microsoft Visual Studio 2019. It can run on Windows, Linux and MacOs. 
+This App is a Consola App (.NET Core) written in C sharp created in Microsoft Visual Studio 2019. It can run on Windows, Linux and MacOs. 
+
 Clone or Download all the files into one folder. 
 
 For MacOs you will need to be able to run 
 
-The doubling time is 
+From this pre-print https://doi.org/10.1101/2020.03.24.20042762 
+Corresponding Author: David Scheinker from Lucile Packard Children’s Hospital, Stanford, CA 
+First Author: Teng Zhang Standford Department of Management Science and Engineering, Stanford University School of Engineering,
+Stanford, CA
+
+ 
+# To view the on-line calculator please click on this link:
+https://surf.stanford.edu/covid-19-tools/covid-19-hospital-projections/ 
+
+# What is the advantage of this App?
+
 
 <table>
     <thead>
