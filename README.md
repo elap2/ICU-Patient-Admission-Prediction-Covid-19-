@@ -1,7 +1,12 @@
 # ICU-Patient-Admission-Prediction-Covid-19-
 From this pre-print https://doi.org/10.1101/2020.03.24.20042762; Author David Scheinker Standford
 
-This can only be run as a Console in Windows.
+This App is a Consola App (.NET Core) in C sharp created in Microsoft Visual Studio 2019. It can run on Windows, Linux and MacOs. 
+Clone or Download all the files into one folder. 
+
+For MacOs you will need to be able to run 
+
+The doubling time is 
 
 <table>
     <thead>
