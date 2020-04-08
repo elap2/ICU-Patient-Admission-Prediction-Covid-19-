@@ -8,6 +8,7 @@ This App created in Microsoft Visual Studio 2019 is a Console App (.NET Core) wr
 
 ## B Background
 A model of prediction of ICU Beds needed was online on March 26th 2020 as a pre-print: https://doi.org/10.1101/2020.03.24.20042762 
+
 Corresponding Author: David Scheinker from Lucile Packard Children’s Hospital, Stanford, CA. 
 First Authors: Teng Zhang and Kelly McFarlane, Harvard Medical School, Standford Department of Management Science and Engineering, Stanford University School of Engineering, Stanford, CA.
 #### To view the on-line calculator please click on this link:
@@ -35,8 +36,11 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
 ### 2. It is straight forward and it's output gives you the number of patients admitted to the hospital, to the ICU, to the AC (acute care beds
 
 # E Ouput example:
-![](ouput.png)
+![](OUTPUT.png)
 
+
+# F Parameters:
+### All parameters are taken from the pre-print https://doi.org/10.1101/2020.03.24.20042762 
 <table>
     <thead>
         <tr>
