@@ -3,20 +3,28 @@ To do an estimation of how many patients are being admitted to the intensive car
 
 This App created in Microsoft Visual Studio 2019 is a Console App (.NET Core) written in C sharp. It can run on Windows, Linux and MacOs. 
 
-### MacOS: https://dotnet.microsoft.com/download/dotnet-core/3.1
-### Linux: https://dotnet.microsoft.com/download
+#### MacOS: https://dotnet.microsoft.com/download/dotnet-core/3.1
+#### Linux: https://dotnet.microsoft.com/download
 
 ## Background
-A model of prediction of ICU Beds needed On March 26th 2020 this pre-print was able online: https://doi.org/10.1101/2020.03.24.20042762 
+A model of prediction of ICU Beds needed was online on March 26th 2020 as a pre-print: https://doi.org/10.1101/2020.03.24.20042762 
 Corresponding Author: David Scheinker from Lucile Packard Children’s Hospital, Stanford, CA. 
 First Authors: Teng Zhang and Kelly McFarlane, Harvard Medical School, Standford Department of Management Science and Engineering, Stanford University School of Engineering, Stanford, CA.
-## To view the on-line calculator please click on this link:
+#### To view the on-line calculator please click on this link:
 https://surf.stanford.edu/covid-19-tools/covid-19-hospital-projections/ 
+
+#### The doubling time is an essential parameter for understanding how all of us is being affected by SARS-Cov-2. For further reading follow these publications: 
+
+Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing
+Luca Ferretti1,*, Chris Wymant1,*, Michelle Kendall1, Lele Zhao1, Anel Nurtay1, Lucie Abeler-Dörner1, Michael Parker2, David Bonsall1,3,†, Christophe Fraser1,4,†,‡
+Science  31 Mar 2020: eabb6936 DOI: 10.1126/science.abb6936
+https://science.sciencemag.org/content/early/2020/03/30/science.abb6936
+
+I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri, Z. Cucunubá, G. Cuomo-Dannenburg, R. FitzJohn, H. Fu, K. Gaythorpe, A. Hamlet, W. Hinsley, N. Hong, M. Kwun, D. Laydon, G. Nedjati-Gilani, S. Riley, S. van Elsland, E. Volz, H. Wang, R. Wang, C. Walters, X. Xi, C. Donnelly, A. Ghani, N. Ferguson, Report 4: Severity of 2019-Novel Coronavirus (nCoV) (10 February 2020); www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-severity-10-02-2020.pdf.
 
 #### Changes: The ConsoleApp3's Output prints the number of ICU beds accumulation over time according to the doubling time of disease transmision. The ConsoleApp3 does not include the percentage of ICU beds needed due to NON-COVID-19+ Patients (unlike from https://doi.org/10.1101/2020.03.24.20042762). 
  
-
-## Run this App doing the following steps: 
+# Run this App doing the following steps: 
 ### 1. Clone or Download all the files into one folder. 
 ### 2. Run the .exe
 
