@@ -34,7 +34,7 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
 ### 1. does not need to be online 
 ### 2. It is straight forward and it's output gives you the number of patients admitted to the hospital, to the ICU, to the AC (acute care beds
 
-# D Example of usage:
+# E Ouput example:
 
 <table>
     <thead>
