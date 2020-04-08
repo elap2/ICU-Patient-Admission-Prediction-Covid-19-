@@ -35,6 +35,7 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
 ### 2. It is straight forward and it's output gives you the number of patients admitted to the hospital, to the ICU, to the AC (acute care beds
 
 # E Ouput example:
+![](ouput.png)
 
 <table>
     <thead>
