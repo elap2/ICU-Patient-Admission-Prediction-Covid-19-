@@ -19,7 +19,6 @@ https://surf.stanford.edu/covid-19-tools/covid-19-hospital-projections/
 ### 1. Clone or Download all the files into one folder. 
 ### 2. Run the .exe
 
-
 # What is the advantage of this App?
 
 ## The ConsoleApp3 
