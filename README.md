@@ -6,25 +6,28 @@ This App created in Microsoft Visual Studio 2019 is a Console App (.NET Core) wr
 For MacOs you will need to be able to run .NET Core applications. 
 
 ## Background
-On March 26 2020 this pre-print was able online: https://doi.org/10.1101/2020.03.24.20042762 
-Corresponding Author: David Scheinker from Lucile Packard Children’s Hospital, Stanford, CA 
-First Author: Teng Zhang Standford Department of Management Science and Engineering, Stanford University School of Engineering,
-Stanford, CA
-
-""
- 
-# To view the on-line calculator please click on this link:
+A model of prediction of ICU Beds needed On March 26th 2020 this pre-print was able online: https://doi.org/10.1101/2020.03.24.20042762 
+Corresponding Author: David Scheinker from Lucile Packard Children’s Hospital, Stanford, CA. 
+First Authors: Teng Zhang and Kelly McFarlane, Harvard Medical School, Standford Department of Management Science and Engineering, Stanford University School of Engineering, Stanford, CA.
+## To view the on-line calculator please click on this link:
 https://surf.stanford.edu/covid-19-tools/covid-19-hospital-projections/ 
+
+#### Changes: The ConsoleApp3's Output prints the number of ICU beds accumulation over time according to the doubling time of disease transmision. The ConsoleApp3 does not include the percentage of ICU beds needed due to NON-COVID-19+ Patients (unlike from https://doi.org/10.1101/2020.03.24.20042762). 
+ 
 
 ## Run this App doing the following steps: 
 ### 1. Clone or Download all the files into one folder. 
 ### 2. Run the .exe
 
 
-
 # What is the advantage of this App?
 
-This calculator does not need to be online, it is straight forward and gives you a picture of the number 
+## The ConsoleApp3 
+### 1. does not need to be online 
+### 2. It is straight forward and it's output gives you the number of patients admitted to the hospital, to the ICU, to the AC (acute care beds
+
+# Example of usage:
+<link rel="shortcut icon" href="your_image_path_and_name.ico" />
 
 <table>
     <thead>
