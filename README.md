@@ -3,7 +3,8 @@ To do an estimation of how many patients are being admitted to the intensive car
 
 This App created in Microsoft Visual Studio 2019 is a Console App (.NET Core) written in C sharp. It can run on Windows, Linux and MacOs. 
 
-For MacOs you will need to be able to run .NET Core applications. 
+### MacOS: https://dotnet.microsoft.com/download/dotnet-core/3.1
+### Linux: https://dotnet.microsoft.com/download
 
 ## Background
 A model of prediction of ICU Beds needed On March 26th 2020 this pre-print was able online: https://doi.org/10.1101/2020.03.24.20042762 
