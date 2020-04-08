@@ -1,9 +1,9 @@
 # ICU-Patient-Admission-Prediction-Covid-19+
 To do an estimation of how many patients are being admitted to the intensive care unit or acute care patients is essential for hospital planning during the period of NPI (Non-Pharmacological Interventions) and also during their release (Lockdown Release). For this purpose the doubling is an essential parameter.
 
-This App is a Consola App (.NET Core) written in C sharp created in Microsoft Visual Studio 2019. It can run on Windows, Linux and MacOs. 
+This App created in Microsoft Visual Studio 2019 is a Console App (.NET Core) written in C sharp. It can run on Windows, Linux and MacOs. 
 
-For MacOs you will need to be able to run .NET Core applications 
+For MacOs you will need to be able to run .NET Core applications. 
 
 # Clone or Download all the files into one folder. 
 
