@@ -27,7 +27,7 @@ https://surf.stanford.edu/covid-19-tools/covid-19-hospital-projections/
 ### 2. It is straight forward and it's output gives you the number of patients admitted to the hospital, to the ICU, to the AC (acute care beds
 
 # Example of usage:
-<link rel="shortcut icon" href="your_image_path_and_name.ico" />
+<link rel="icon" type="image/gif/png" href="output.png">
 
 <table>
     <thead>
