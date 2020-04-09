@@ -1,4 +1,4 @@
-# A ICU-Patient-Admission-Prediction-Covid-19+
+# ICU-Patient-Admission-Prediction-Covid-19+
 To do an estimation of how many patients are being admitted to the intensive care unit or acute care patients is essential for hospital planning during the period of NPI (Non-Pharmacological Interventions) and also during their release (Lockdown Release). For this purpose the doubling is an essential parameter.
 
 This App created in Microsoft Visual Studio 2019 is a Console App (.NET Core) written in C sharp. It can run on Windows, Linux and MacOs. 
@@ -6,7 +6,7 @@ This App created in Microsoft Visual Studio 2019 is a Console App (.NET Core) wr
 #### MacOS: https://dotnet.microsoft.com/download/dotnet-core/3.1
 #### Linux: https://dotnet.microsoft.com/download
 
-## B Background
+# Background
 A model of prediction of ICU Beds needed was online on March 26th 2020 as a pre-print: https://doi.org/10.1101/2020.03.24.20042762 
 
 Corresponding Author: David Scheinker from Lucile Packard Children’s Hospital, Stanford, CA. 
@@ -25,21 +25,21 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
 
 #### Changes: The ConsoleApp3's Output prints the number of ICU beds accumulation over time according to the doubling time of disease transmision. The ConsoleApp3 does not include the percentage of ICU beds needed due to NON-COVID-19+ Patients (unlike from https://doi.org/10.1101/2020.03.24.20042762). 
  
-# C Run this App doing the following steps: 
+# Run this App doing the following steps: 
 ### 1. Clone or Download all the files into one folder. 
 ### 2. Run the .exe
 
-# D What is the advantage of this App?
+# What is the advantage of this App?
 
 ## The ConsoleApp3 
 ### 1. does not need to be online 
 ### 2. It is straight forward and it's output gives you the number of patients admitted to the hospital, to the ICU, to the AC (acute care beds
 
-# E Ouput example:
+# Ouput example:
 ![](OUTPUT.png)
 
 
-# F Parameters:
+# Parameters:
 ### All parameters are taken from the pre-print https://doi.org/10.1101/2020.03.24.20042762 
 <table>
     <thead>
