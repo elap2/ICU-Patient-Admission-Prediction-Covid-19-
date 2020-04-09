@@ -29,13 +29,13 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
 ### 1. Clone or Download all the files into one folder. 
 ### 2. Go to the folder [\Application](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/Application) and run ConsoleApp3.exe within e.g. *C:\YourDownloadPath*\Application\ConsoleApp3.exe
 
-The source code is the file Program.cs at [\ConsoleApp3](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/ConsoleApp3/ConsoleApp3)
+> The source code is the file Program.cs at [\ConsoleApp3](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/ConsoleApp3/ConsoleApp3)
 
 # What is the advantage of this App?
 
 ## The ConsoleApp3 
-### 1. does not need to be online 
-### 2. It is straight forward and it's output gives you the number of patients admitted to the hospital, to the ICU, to the AC (acute care beds during the days projected
+* 1. does not need to be online 
+* 2. It is straight forward and it's output gives you the number of patients admitted to the hospital, to the ICU, to the AC (acute care beds during the days projected)
 
 # Ouput example:
 ![](OUTPUT.png)
