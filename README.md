@@ -27,13 +27,13 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
  
 # Run this App doing the following steps: 
 ### 1. Clone or Download all the files into one folder. 
-### 2. Run the .exe
+### 2. Go to the folder *yourpath*\Application\ and run the .exe file e.g. *C:\YourPath*\Application\ConsoleApp3.exe and run the .exe
 
 # What is the advantage of this App?
 
 ## The ConsoleApp3 
 ### 1. does not need to be online 
-### 2. It is straight forward and it's output gives you the number of patients admitted to the hospital, to the ICU, to the AC (acute care beds
+### 2. It is straight forward and it's output gives you the number of patients admitted to the hospital, to the ICU, to the AC (acute care beds during the days projected
 
 # Ouput example:
 ![](OUTPUT.png)
