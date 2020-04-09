@@ -79,11 +79,7 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
     </tbody>
 </table>
 
-<html>
-    <body>
-        <code>
-
-
+```
     using System;
 
     namespace ConsoleApp3
@@ -212,7 +208,5 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
                 Console.WriteLine("Total ICU Patients: " + icu_patients_total);
             }
             Console.ReadLine();
-   </code>
-   </body>
-</html>
+ ```
 
