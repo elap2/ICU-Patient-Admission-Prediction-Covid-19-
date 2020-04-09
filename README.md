@@ -27,7 +27,8 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
  
 # Run this App doing the following steps: 
 ### 1. Clone or Download all the files into one folder. 
-### 2. Go to the folder *yourpath*\Application\ and run the .exe file e.g. *C:\YourPath*\Application\ConsoleApp3.exe and run the .exe
+### 2. Go to the folder [\Application](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/Application) and run ConsoleApp3.exe within e.g. *C:\YourDownloadPath*\Application\ConsoleApp3.exe
+> the source code is in [\ConsoleApp3\]()
 
 # What is the advantage of this App?
 
