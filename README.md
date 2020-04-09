@@ -34,8 +34,8 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
 # What is the advantage of this App?
 
 ## The ConsoleApp3 
-* 1. does not need to be online 
-* 2. It is straight forward and it's output gives you the number of patients admitted to the hospital, to the ICU, to the AC (acute care beds during the days projected)
+- *does not need to be online* 
+- *It is straight forward and it's output gives you the number of patients admitted to the hospital, to the ICU, to the AC (acute care beds during the days projected)*
 
 # Ouput example:
 ![](OUTPUT.png)
