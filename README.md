@@ -14,7 +14,7 @@ First Authors: Teng Zhang and Kelly McFarlane, Harvard Medical School, Standford
 #### To view the on-line calculator please click on this link:
 https://surf.stanford.edu/covid-19-tools/covid-19-hospital-projections/ 
 
-#### The doubling time is an essential parameter for understanding how all of us is being affected by SARS-Cov-2. For further reading follow these publications: 
+#### The doubling time is an essential parameter for understanding how all of us are being affected by SARS-Cov-2. For further reading follow these publications: 
 
 Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing
 Luca Ferretti1,*, Chris Wymant1,*, Michelle Kendall1, Lele Zhao1, Anel Nurtay1, Lucie Abeler-Dörner1, Michael Parker2, David Bonsall1,3,†, Christophe Fraser1,4,†,‡
