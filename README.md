@@ -211,4 +211,45 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
             }
             Console.ReadLine();
  ```
+# ICU-Patient-Admission-Prediction-Covid-19+ (Español)
+Hacer una estimación de cuántos pacientes seran ingresados a la unidad de terapia intensiva (ICU) o de cuidados intensivos (AC) es esencial para el planeamiento hospitalario durante el periodo de intervenciones no farmacológicas (NPI) y también durante su liberación (Liberación de la "Cuarentena"). Para este propósito el tiempo de duplicación de la enfermedad COVID19 es esencial.
 
+Este App es creado en Microsoft Visual Studio 2019 como App Consola (.NET Core) escrito en C sharp. Puede correr en Windows, Linux y MacOs. 
+
+#### MacOS: https://dotnet.microsoft.com/download/dotnet-core/3.1
+#### Linux: https://dotnet.microsoft.com/download
+
+# Cuestión
+Un modelo de predicción de la necesidad de camas de terapia intensiva ICU se ha puesto online en Marzo 26 de 2020 como pre-print: https://doi.org/10.1101/2020.03.24.20042762 
+
+Autor: David Scheinker from Lucile Packard Children’s Hospital, Stanford, CA. 
+Primeros Autores: Teng Zhang and Kelly McFarlane, Harvard Medical School, Standford Department of Management Science and Engineering, Stanford University School of Engineering, Stanford, CA.
+#### Para ver el calculador on-line por favor cliquear el link:
+https://surf.stanford.edu/covid-19-tools/covid-19-hospital-projections/ 
+
+#### El tiempo de duplicación es un parámetro esencial para entender cómo todos nosotros estamos siendo afectados por el SARS-Cov-2. Para mayor profundidad léase los siguientes artículos: 
+
+Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing
+Luca Ferretti1,*, Chris Wymant1,*, Michelle Kendall1, Lele Zhao1, Anel Nurtay1, Lucie Abeler-Dörner1, Michael Parker2, David Bonsall1,3,†, Christophe Fraser1,4,†,‡
+Science  31 Mar 2020: eabb6936 DOI: 10.1126/science.abb6936
+https://science.sciencemag.org/content/early/2020/03/30/science.abb6936
+
+I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri, Z. Cucunubá, G. Cuomo-Dannenburg, R. FitzJohn, H. Fu, K. Gaythorpe, A. Hamlet, W. Hinsley, N. Hong, M. Kwun, D. Laydon, G. Nedjati-Gilani, S. Riley, S. van Elsland, E. Volz, H. Wang, R. Wang, C. Walters, X. Xi, C. Donnelly, A. Ghani, N. Ferguson, Report 4: Severity of 2019-Novel Coronavirus (nCoV) (10 February 2020); www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-severity-10-02-2020.pdf.
+
+#### Cambios: El Output del ConsoleApp3's imprime directamente los números de camas de ICU acumulados durante el tiempo de acuerdo al tiempo de duplicación de la transmisión. El ConsoleApp3 no incluye los porcentajes de camas de ICU necesarias por parte de pacientes NO-COVID-19+ (en contraste con el calculador de https://doi.org/10.1101/2020.03.24.20042762). 
+ 
+# Correr esta App haciendo los siguientes pasos: 
+### 1. Clona or Descarga todos los archivos en una Directorio. 
+### 2. Ir al directorio [\Application](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/Application) y correr directamente el ConsoleApp3.exe dentro de por ej. *C:\TuDirectorio*\Application\ConsoleApp3.exe
+
+> El código fuente es el archivo Program.cs en [\ConsoleApp3](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/ConsoleApp3/ConsoleApp3)
+
+# Cual es la ventaja de este App?
+
+## The ConsoleApp3 
+- *no necesita estar online* 
+- *Es simple de usar y sus resultados se expresan en número de pacientes ingresados al hospital, a la ICU (terapia de cuidados intensivos), a la AC (terapia intermedia) durante los días proyectados de interés)*
+
+# Ejemplo y Código fuente
+> ir a Output Example
+> Código fuente se ve arriba
