@@ -59,7 +59,7 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
                         <tr><td>2</td><td>Floor->ICU->Floor</td><td>13.0</td></tr>
                         <tr><td>3</td><td>Floor->ICU</td><td>1.8</td></tr>
                         <tr><td>4</td><td>ICU->Floor</td><td>13.0</td></tr>
-                        <tr><td>5</td><td>ICU</td><td>1,8</td></tr>
+                        <tr><td>5</td><td>ICU</td><td>1.8</td></tr>
                     </tbody>
                 </table>
             </td>
