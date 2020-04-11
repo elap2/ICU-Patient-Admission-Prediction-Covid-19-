@@ -63,7 +63,7 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
                     </tbody>
                 </table>
             </td>
-            <td>(Length of Stay)Estimates in Model
+            <td>(Length of Stay) Estimates in Model Days
             <table>
                     <tbody>
                       <tr><th>LOS Floor</th><th>LOS ICU</th><th>LOS Floor</th><th>Total LOS</th></tr>
