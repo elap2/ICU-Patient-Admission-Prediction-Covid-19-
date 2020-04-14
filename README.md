@@ -27,7 +27,7 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
  
 # Run this App doing the following steps: 
 ### 1. Clone or Download all the files into one folder. 
-### 2. Go to the folder [\Application](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/Application) and run ConsoleApp3.exe within e.g. *C:\YourDownloadPath*\Application\ConsoleApp1.exe
+### 2. Go to the folder [\Application](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/Application) and run ConsoleApp1.exe within e.g. *C:\YourDownloadPath*\Application\ConsoleApp1.exe
 
 > The source code is the file Program.cs at [\ConsoleApp1](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/ConsoleApp3/ConsoleApp1)
 
