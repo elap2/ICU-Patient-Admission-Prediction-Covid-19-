@@ -3,7 +3,9 @@ To do an estimation of how many patients are being admitted to the intensive car
 
 This App created in Microsoft Visual Studio 2019 is a Console App (.NET Core) written in C sharp. It can run on Windows, Linux and MacOs. 
 
-#### MacOS: https://dotnet.microsoft.com/download/dotnet-core/3.1
+#### MacOS: 
+- https://dotnet.microsoft.com/download/dotnet-core/3.1
+- https://www.mono-project.com/docs/about-mono/supported-platforms/macos/
 #### Linux: https://dotnet.microsoft.com/download
 
 # Background
