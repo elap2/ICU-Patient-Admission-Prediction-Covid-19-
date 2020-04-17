@@ -328,3 +328,9 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
 # Ejemplo y Código fuente
 > ir a Output Example
 > Código fuente se ve arriba
+
+# Berechnung der COVID Patienten-Aufnahme auf ICU
+
+Eine Vorhersage der Anzahl von stationären intensivpflichtigen Patientenaufnahme und der hospitalisierten Patienten auf Überwachungsstationen ist es während der sozialen Distanzierungsmaßnahmen und deren Lockerung wesentlich, um die Krankenhausbetten zu organisieren. Aus diesem Grund ist es die Verfopplungszeit ein wichtiger Parameter.
+
+Die in Microsoft Visual Studio 2019 entwickelte Console App (.NET Core) ist in C sharp. Es kann in Windows, MacOS und Linux laufen.
