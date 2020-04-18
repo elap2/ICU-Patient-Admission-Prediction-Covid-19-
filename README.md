@@ -348,7 +348,7 @@ Ein prädiktives Modell, welches die Belegungsquote von Intensivbetten je nach V
 Author: David Scheinker, Lucile Packard Children’s Hospital, Stanford, CA. 
 Erster Author: Teng Zhang and Kelly McFarlane, Harvard Medical School, Standford Department of Management Science and Engineering, Stanford University School of Engineering, Stanford, CA.
 
-#### Um den on-line Rechner zu sehen bitte clicken Sie den unten stehenden Link:
+#### Um den on-line Rechner zu sehen bitte clicken Sie bitte in den unten stehenden Link:
 https://surf.stanford.edu/covid-19-tools/covid-19-hospital-projections/
 
 #### Die Verdopplungszeit ist ein wichtiges Parameter, um zu verstehen, wie uns die Ausbreitung von SARS-Cov-2 beeinflußt. Weitere wichtige Lesewerke finden Sie unten:
