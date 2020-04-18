@@ -340,7 +340,7 @@ Die in Microsoft Visual Studio 2019 entwickelte Console App (.NET Core) ist in C
 - https://dotnet.microsoft.com/download/dotnet-core/3.1
 - https://www.mono-project.com/docs/about-mono/supported-platforms/macos/
 #### Linux: 
--https://dotnet.microsoft.com/download
+- https://dotnet.microsoft.com/download
 
 # Hintergrund
 Ein prädiktives Modell, welches die Belegungsquote von Intensivbetten je nach Verdopplungszeit berechnet, wurde online am 26.3.20 herausgegeben: https://doi.org/10.1101/2020.03.24.20042762 
@@ -364,5 +364,14 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
 Das Output von ConsoleApp1 druckt die direkte Zahlen der akkumulierten ICU Patienten in einem bestimmten angegeben Zeitfenster je nach Verdopplungszeit und initialer hospitalisierten COVID-Patienten aus. Das ConsoleApp1 berücksichtigt die Prozentzahl der Nicht-COVID-19+ nicht im Gegensatz zu dem Rechner auf folgendem Link: https://doi.org/10.1101/2020.03.24.20042762). 
  
 # Herunterladen: 
-### 1. Die Dateien herunterladen od. das Archiv klonieren.
-### 2. Gehehen Sie bitte zu dem Ordner [\Application](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/Application) und die Datei ConsoleApp1.exe im *C:\DeinOrdner*\Application\ConsoleApp1.exe Öffnen.
+### 1. Die Dateien des Archiv Herunterladen od. das Archiv klonieren.
+### 2. Gehen Sie bitte zu dem Ordner [\Application](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/Application) und die Datei ConsoleApp1.exe im *C:\DeinOrdner*\Application\ConsoleApp1.exe Öffnen.
+
+# Vorteile dieser App im Vergleich zu dem on-line Rechner
+
+## ConsoleApp1 
+- *kann off-line bei schwankender Internetverbindung laufen* 
+- *Es hat eine einfache Anwendung und die Ergebnisse werden in Zahlen der ICU und AC (Überwachungsstation) direkt augedrückt*
+
+# Das Beispiel und das Algorythmus
+> Beides oben stehend
