@@ -351,7 +351,7 @@ Erster Author: Teng Zhang and Kelly McFarlane, Harvard Medical School, Standford
 #### Um den on-line Rechner zu sehen bitte clicken Sie bitte in den unten stehenden Link:
 https://surf.stanford.edu/covid-19-tools/covid-19-hospital-projections/
 
-#### Die Verdopplungszeit ist ein wichtiges Parameter, um zu verstehen, wie uns die Ausbreitung von SARS-Cov-2 beeinflußt. Weitere wichtige Lesewerke finden Sie unten:
+#### Die Verdopplungszeit ist ein wichtiges Parameter, um zu verstehen, wie die Ausbreitung von SARS-Cov-2 uns beeinflußt. Weitere wichtige Lesewerke finden Sie unten:
 
 Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing
 Luca Ferretti1,*, Chris Wymant1,*, Michelle Kendall1, Lele Zhao1, Anel Nurtay1, Lucie Abeler-Dörner1, Michael Parker2, David Bonsall1,3,†, Christophe Fraser1,4,†,‡
