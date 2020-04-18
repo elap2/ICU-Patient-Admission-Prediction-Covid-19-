@@ -350,3 +350,16 @@ Erster Author: Teng Zhang and Kelly McFarlane, Harvard Medical School, Standford
 
 #### Um den on-line Rechner zu sehen bitte clicken Sie den unten stehenden Link:
 https://surf.stanford.edu/covid-19-tools/covid-19-hospital-projections/
+
+#### Die Verdopplungszeit ist ein wichtiges Parameter, um zu verstehen, wie uns die Ausbreitung von SARS-Cov-2 beeinflußt. Weitere wichtige Lesewerke finden Sie unten:
+
+Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing
+Luca Ferretti1,*, Chris Wymant1,*, Michelle Kendall1, Lele Zhao1, Anel Nurtay1, Lucie Abeler-Dörner1, Michael Parker2, David Bonsall1,3,†, Christophe Fraser1,4,†,‡
+Science  31 Mar 2020: eabb6936 DOI: 10.1126/science.abb6936
+https://science.sciencemag.org/content/early/2020/03/30/science.abb6936
+
+I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri, Z. Cucunubá, G. Cuomo-Dannenburg, R. FitzJohn, H. Fu, K. Gaythorpe, A. Hamlet, W. Hinsley, N. Hong, M. Kwun, D. Laydon, G. Nedjati-Gilani, S. Riley, S. van Elsland, E. Volz, H. Wang, R. Wang, C. Walters, X. Xi, C. Donnelly, A. Ghani, N. Ferguson, Report 4: Severity of 2019-Novel Coronavirus (nCoV) (10 February 2020); www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-severity-10-02-2020.pdf.
+
+#### Veränderungen
+Das Output von ConsoleApp1 druckt die direkte Zahlen der akkumulierten ICU Patienten in einem bestimmten angegeben Zeitfenster je nach Verdopplungszeit und initialer hospitalisierten COVID-Patienten. Das ConsoleApp1 berücksichtigt die Prozentzahl der Nicht-COVID-19+ nicht im gegensatz zu dem Rechner auf folgendem Link: https://doi.org/10.1101/2020.03.24.20042762). 
+ 
