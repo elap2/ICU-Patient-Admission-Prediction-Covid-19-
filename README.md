@@ -331,6 +331,16 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
 
 # Berechnung der COVID Patienten-Aufnahme auf ICU
 
-Eine Vorhersage der Anzahl von stationären intensivpflichtigen Patientenaufnahme und der hospitalisierten Patienten auf Überwachungsstationen ist es während der sozialen Distanzierungsmaßnahmen und deren Lockerung wesentlich, um die Krankenhausbetten zu organisieren. Aus diesem Grund ist es die Verfopplungszeit ein wichtiger Parameter.
+Eine Vorhersage der Anzahl von intensivpflichtigen Patientenaufnahme und der hospitalisierten Patienten auf Überwachungsstationen ist während der sozialen Distanzierungsmaßnahmen und deren Lockerung ein wesentlicher Teil der Organisation von Krankenhausbetten. Aus diesem Grund ist es die Verfopplungszeit ein wichtiger Parameter dieser o.g. Berechnung.
 
 Die in Microsoft Visual Studio 2019 entwickelte Console App (.NET Core) ist in C sharp. Es kann in Windows, MacOS und Linux laufen.
+
+#### MacOS: 
+- https://dotnet.microsoft.com/download/dotnet-core/3.1
+- https://www.mono-project.com/docs/about-mono/supported-platforms/macos/
+#### Linux: https://dotnet.microsoft.com/download
+
+# Hintergrund
+Ein prädiktives Modell, welches die Belegungsquote von Intensivbetten je nach Verdopplungszeit berechnet, wurde online am 26.3.20 herausgegeben: https://doi.org/10.1101/2020.03.24.20042762 
+
+
