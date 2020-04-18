@@ -1,3 +1,9 @@
+- For english [English](#icu-patient-admission-prediction-covid-19+)
+
+- En Español haga click [aquí](#predicción-de-la-admisión-de-pacientes-covid19+)
+
+- Clicken Sie auf [Deutsch](#berechnung-der-covid-patienten-aufnahme-auf-icu) 
+
 # ICU-Patient-Admission-Prediction-Covid-19+
 To do an estimation of how many patients are being admitted to the intensive care unit or acute care patients is essential for hospital planning during the period of NPI (Non-Pharmacological Interventions) and also during their release (Lockdown Release). For this purpose the doubling time is an essential parameter.
 
@@ -287,7 +293,7 @@ namespace ConsoleApp1
 
 
  ```
-# ICU-Patient-Admission-Prediction-Covid-19+ (Español)
+# Predicción de la admisión de pacientes COVID19+
 Hacer una estimación de cuántos pacientes seran ingresados a la unidad de terapia intensiva (ICU) o de cuidados intensivos (AC) es esencial para el planeamiento hospitalario durante el periodo de intervenciones no farmacológicas (NPI) y también durante su liberación (Liberación de la "Cuarentena"). Para este propósito el tiempo de duplicación de la enfermedad COVID19 es esencial.
 
 Este App es creado en Microsoft Visual Studio 2019 como App Consola (.NET Core) escrito en C sharp. Puede correr en Windows, Linux y MacOs. 
