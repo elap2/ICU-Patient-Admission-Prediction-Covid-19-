@@ -6,7 +6,8 @@ This App created in Microsoft Visual Studio 2019 is a Console App (.NET Core) wr
 #### MacOS: 
 - https://dotnet.microsoft.com/download/dotnet-core/3.1
 - https://www.mono-project.com/docs/about-mono/supported-platforms/macos/
-#### Linux: https://dotnet.microsoft.com/download
+#### Linux: 
+- https://dotnet.microsoft.com/download
 
 # Background
 A model of prediction of ICU Beds needed was online on March 26th 2020 as a pre-print: https://doi.org/10.1101/2020.03.24.20042762 
@@ -338,9 +339,14 @@ Die in Microsoft Visual Studio 2019 entwickelte Console App (.NET Core) ist in C
 #### MacOS: 
 - https://dotnet.microsoft.com/download/dotnet-core/3.1
 - https://www.mono-project.com/docs/about-mono/supported-platforms/macos/
-#### Linux: https://dotnet.microsoft.com/download
+#### Linux: 
+-https://dotnet.microsoft.com/download
 
 # Hintergrund
 Ein prädiktives Modell, welches die Belegungsquote von Intensivbetten je nach Verdopplungszeit berechnet, wurde online am 26.3.20 herausgegeben: https://doi.org/10.1101/2020.03.24.20042762 
 
+Author: David Scheinker, Lucile Packard Children’s Hospital, Stanford, CA. 
+Erster Author: Teng Zhang and Kelly McFarlane, Harvard Medical School, Standford Department of Management Science and Engineering, Stanford University School of Engineering, Stanford, CA.
 
+#### Um den on-line Rechner zu sehen bitte clicken Sie den unten stehenden Link:
+https://surf.stanford.edu/covid-19-tools/covid-19-hospital-projections/
