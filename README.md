@@ -1,6 +1,4 @@
-- In [english](#icu-patient-admission-prediction-covid-19+)
-
-- En Español haga click [aquí](#prediccion-de-la-admision-de-pacientes-covid)
+- En Español haga click [aquí](#predicción-de-la-admisión-de-pacientes-covid)
 
 - Clicken Sie auf [Deutsch](#berechnung-der-covid-patienten-aufnahme-auf-icu) 
 
