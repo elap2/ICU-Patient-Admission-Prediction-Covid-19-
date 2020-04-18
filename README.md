@@ -1,6 +1,6 @@
 - In [english](#icu-patient-admission-prediction-covid-19+)
 
-- En Español haga click [aquí](#predicción-de-la-admisión-de-pacientes-covid19+)
+- En Español haga click [aquí](#prediccion-de-la-admision-de-pacientes-covid)
 
 - Clicken Sie auf [Deutsch](#berechnung-der-covid-patienten-aufnahme-auf-icu) 
 
@@ -293,7 +293,7 @@ namespace ConsoleApp1
 
 
  ```
-# Predicción de la admisión de pacientes COVID19+
+# Predicción de la admisión de pacientes COVID
 Hacer una estimación de cuántos pacientes seran ingresados a la unidad de terapia intensiva (ICU) o de cuidados intensivos (AC) es esencial para el planeamiento hospitalario durante el periodo de intervenciones no farmacológicas (NPI) y también durante su liberación (Liberación de la "Cuarentena"). Para este propósito el tiempo de duplicación de la enfermedad COVID19 es esencial.
 
 Este App es creado en Microsoft Visual Studio 2019 como App Consola (.NET Core) escrito en C sharp. Puede correr en Windows, Linux y MacOs. 
