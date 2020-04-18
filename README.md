@@ -332,9 +332,9 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
 
 # Berechnung der COVID Patienten-Aufnahme auf ICU
 
-Eine Vorhersage der Anzahl von intensivpflichtigen Patientenaufnahme und der hospitalisierten Patienten auf Überwachungsstationen ist während der sozialen Distanzierungsmaßnahmen und deren Lockerung ein wesentlicher Teil der Organisation von Krankenhausbetten. Aus diesem Grund ist es die Verfopplungszeit ein wichtiger Parameter dieser o.g. Berechnung.
+Eine Vorhersage der Anzahl von intensivpflichtigen Patienten und der hospitalisierten Patienten auf Überwachungsstationen ist während der sozialen Distanzierungsmaßnahmen und deren Lockerung ein wesentlicher Teil der Organisation der Krankenhausbetten. Aus diesem Grund ist es die Verfopplungszeit ein wichtiger Parameter dieser Berechnung.
 
-Die in Microsoft Visual Studio 2019 entwickelte Console App (.NET Core) ist in C sharp. Es kann in Windows, MacOS und Linux laufen.
+Die in Microsoft Visual Studio 2019 entwickelte Console App (.NET Core) ist in C sharp geschrieben. Es kann in Windows, MacOS und Linux laufen.
 
 #### MacOS: 
 - https://dotnet.microsoft.com/download/dotnet-core/3.1
@@ -361,5 +361,5 @@ https://science.sciencemag.org/content/early/2020/03/30/science.abb6936
 I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri, Z. Cucunubá, G. Cuomo-Dannenburg, R. FitzJohn, H. Fu, K. Gaythorpe, A. Hamlet, W. Hinsley, N. Hong, M. Kwun, D. Laydon, G. Nedjati-Gilani, S. Riley, S. van Elsland, E. Volz, H. Wang, R. Wang, C. Walters, X. Xi, C. Donnelly, A. Ghani, N. Ferguson, Report 4: Severity of 2019-Novel Coronavirus (nCoV) (10 February 2020); www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-severity-10-02-2020.pdf.
 
 #### Veränderungen
-Das Output von ConsoleApp1 druckt die direkte Zahlen der akkumulierten ICU Patienten in einem bestimmten angegeben Zeitfenster je nach Verdopplungszeit und initialer hospitalisierten COVID-Patienten. Das ConsoleApp1 berücksichtigt die Prozentzahl der Nicht-COVID-19+ nicht im gegensatz zu dem Rechner auf folgendem Link: https://doi.org/10.1101/2020.03.24.20042762). 
+Das Output von ConsoleApp1 druckt die direkte Zahlen der akkumulierten ICU Patienten in einem bestimmten angegeben Zeitfenster je nach Verdopplungszeit und initialer hospitalisierten COVID-Patienten aus. Das ConsoleApp1 berücksichtigt die Prozentzahl der Nicht-COVID-19+ nicht im Gegensatz zu dem Rechner auf folgendem Link: https://doi.org/10.1101/2020.03.24.20042762). 
  
