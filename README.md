@@ -363,3 +363,6 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
 #### Veränderungen
 Das Output von ConsoleApp1 druckt die direkte Zahlen der akkumulierten ICU Patienten in einem bestimmten angegeben Zeitfenster je nach Verdopplungszeit und initialer hospitalisierten COVID-Patienten aus. Das ConsoleApp1 berücksichtigt die Prozentzahl der Nicht-COVID-19+ nicht im Gegensatz zu dem Rechner auf folgendem Link: https://doi.org/10.1101/2020.03.24.20042762). 
  
+# Herunterladen: 
+### 1. Die Dateien herunterladen od. das Archiv klonieren.
+### 2. Gehehen Sie bitte zu dem Ordner [\Application](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/Application) und die Datei ConsoleApp1.exe im *C:\DeinOrdner*\Application\ConsoleApp1.exe Öffnen.
