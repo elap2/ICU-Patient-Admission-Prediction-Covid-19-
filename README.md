@@ -1,4 +1,4 @@
-- For english [English](#icu-patient-admission-prediction-covid-19+)
+- In [english](#icu-patient-admission-prediction-covid-19+)
 
 - En Español haga click [aquí](#predicción-de-la-admisión-de-pacientes-covid19+)
 
