@@ -18,7 +18,7 @@ A model of prediction of ICU Beds needed was online on March 26th 2020 as a pre-
 
 Corresponding Author: David Scheinker from Lucile Packard Children’s Hospital, Stanford, CA. 
 First Authors: Teng Zhang and Kelly McFarlane, Harvard Medical School, Standford Department of Management Science and Engineering, Stanford University School of Engineering, Stanford, CA.
-#### To view the on-line calculator please click on this link:
+#### To view the on-line calculator please click on this link: 
 https://surf.stanford.edu/covid-19-tools/covid-19-hospital-projections/ 
 
 #### The doubling time is an essential parameter for understanding how all of us are being affected by SARS-Cov-2. For further reading follow these publications: 
