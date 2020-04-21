@@ -322,7 +322,7 @@ I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri,
 ### 1. Clona or Descarga todos los archivos en una Directorio. 
 ### 2. Ir al directorio [\Application](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/Application) y correr directamente el ConsoleApp1.exe dentro de por ej. *C:\TuDirectorio*\Application\ConsoleApp1.exe
 
-> El código fuente es el archivo Program.cs en [\ConsoleApp1](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/ConsoleApp1)
+> El código fuente es el archivo Program.cs en [\ConsoleApp1](https://github.com/elap2/ICU-Patient-Admission-Prediction-Covid-19-/tree/master/ConsoleApp1/ConsoleApp1)
 
 # Cual es la ventaja de este App?
 
