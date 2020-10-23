@@ -379,3 +379,6 @@ Das Output von ConsoleApp1 druckt die direkte Zahlen der akkumulierten ICU Patie
 
 # Das Beispiel und das Algorythmus
 > Beides oben stehend
+
+## Contact
+workforsolutions:at:protonmail;com
